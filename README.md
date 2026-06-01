@@ -30,3 +30,17 @@ This repository contains two Python programs for my assignment.
    -  Natural logarithm (log base e) of the number
    -  Sine of the number (in radians)
 4.   Displays the calculated results.
+
+## Task 7
+1. Read File Program
+-This program:
+- opens and reads a text file
+- prints file content line by line
+- handles FileNotFoundError using exception handling.
+
+## Task 8
+2. Write, Append and Read File Program
+-This program:
+  - takes user input and writes it into a file
+  - appends additional data to the same file
+  - reads and displays the final content of the file using file handling in Python.
